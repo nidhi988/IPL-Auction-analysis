@@ -1,0 +1,123 @@
+sold_to,player,role,final_price,sold_or_not,base_price,matches,runs,wickets
+RPS, Ben Stokes , Bowling Allrounder • England ,14000000,SOLD,20000000,12,316,12
+RPS, Jaydev Unadkat , Bowler • India ,3000000,SOLD,3000000,12,2,24
+KKR, Manish Pandey , Batsman • India ,17000000,SOLD,10000000,14,396,0
+KKR, Chris Lynn , Batsman • Australia ,13000000,SOLD,10000000,13,295,0
+DD, Glenn Maxwell , Batting Allrounder • Australia ,90000000,SOLD,20000000,14,310,7
+SRH, Rashid Khan , Bowler • Afghanistan ,40000000,SOLD,5000000,14,11,17
+MI, Krunal Pandya , Batting Allrounder • India ,20000000,SOLD,4000000,13,243,10
+DD, Sanju Samson , WK-Batsman • India ,42000000,SOLD,10000000,14,386,0
+RCB, Kedar Jadhav , Batsman • India ,20000000,SOLD,20000000,13,267,0
+RPS, Ravichandran Ashwin , Bowler • India ,75000000,SOLD,20000000,999,999,999
+KKR, Chris Woakes , Bowling Allrounder • England ,42000000,SOLD,20000000,13,46,17
+GL, Dinesh Karthik , WK-Batsman • India ,23000000,SOLD,20000000,14,361,0
+GL, Andrew Tye , Bowler • Australia ,10000000,SOLD,10000000,6,53,12
+KKR, Darren Bravo , Batting Allrounder • Windies ,5000000,SOLD,5000000,1,6,0
+KKR, Robin Uthappa , WK-Batsman • India ,50000000,SOLD,20000000,14,388,0
+GL, Aaron Finch , Batsman • Australia ,60000000,SOLD,10000000,13,299,0
+KXIP, Marcus Stoinis , Batting Allrounder • Australia ,62000000,SOLD,20000000,5,17,2
+GL, Ishan Kishan , WK-Batsman • India ,7000000,SOLD,4000000,11,277,0
+MI, Krishnappa Gowtham , Bowler • India ,20000000,SOLD,1000000,999,999,999
+RCB, Yuzvendra Chahal , Bowler • India ,40000000,SOLD,20000000,13,13,14
+KKR, Kuldeep Yadav , Bowler • India ,4000000,SOLD,4000000,12,20,12
+DD, Karun Nair , Batsman • India ,40000000,SOLD,40000000,14,281,999
+MI, Kieron Pollard , Batting Allrounder • Windies ,95000000,SOLD,20000000,17,385,0
+DD, Pat Cummins , Bowler • Australia ,45000000,SOLD,20000000,12,77,15
+SRH, Shikhar Dhawan , Batsman • India ,12500000,SOLD,20000000,14,479,0
+KXIP, Wriddhiman Saha , WK-Batsman • India ,30000000,SOLD,10000000,14,234,0
+MI, Karn Sharma , Bowling Allrounder • India ,32000000,SOLD,3000000,9,49,13
+MI, Jos Buttler , WK-Batsman • England ,15000000,SOLD,15000000,10,272,0
+DD, Kagiso Rabada , Bowler • South Africa ,50000000,SOLD,10000000,6,44,6
+KKR, Umesh Yadav , Bowler • India ,10000000,SOLD,10000000,14,10,17
+KKR, Piyush Chawla , Bowling Allrounder • India ,42500000,SOLD,10000000,6,2,6
+RPS, Ajinkya Rahane , Batsman • India ,95000000,SOLD,20000000,16,382,0
+RR, Shane Watson , Batting Allrounder • Australia ,95000000,SOLD,10000000,8,71,5
+DD, Amit Mishra , Bowler • India ,45000000,SOLD,15000000,14,49,10
+SRH, Siddarth Kaul , Bowler • India ,3000000,SOLD,3000000,10,0,16
+NULL, Evin Lewis , Batsman • Windies ,0,UNSOLD,5000000,0,0,0
+GL, Brendon McCullum , WK-Batsman • New Zealand ,20000000,SOLD,20000000,11,309,0
+RR, Deepak Hooda , Batting Allrounder • India ,40000000,SOLD,40000000,10,78,2
+RPS, Rahul Tripathi , Batsman • India ,1000000,SOLD,1000000,12,93,0
+MI, Nitish Rana , Batsman • India ,2000000,SOLD,2000000,13,333,0
+MI, Suryakumar Yadav , Batsman • India ,20000000,SOLD,3000000,10,105,0
+SRH, Vijay Shankar , Batting Allrounder • India ,4000000,SOLD,4000000,4,101,0
+DD, Shahbaz Nadeem , Bowler • India ,8500000,SOLD,8500000,7,2,6
+RPS, Washington Sundar , Batting Allrounder • India ,0,UNSOLD,15000000,0,0,0
+SRH, Kane Williamson , Batsman • New Zealand ,30000000,SOLD,15000000,7,256,0
+KXIP, David Miller , Batsman • South Africa ,125000000,SOLD,10000000,5,83,0
+DD, Mohammed Shami , Bowler • India ,30000000,SOLD,10000000,8,36,5
+KXIP, Rahul Tewatia , Bowler • India ,2500000,SOLD,1000000,3,19,3
+KKR, Ankit Rajpoot , Bowler • India ,10000000,SOLD,1000000,5,4,4
+DD, Navdeep Saini , Bowler • India ,1000000,SOLD,1000000,999,999,999
+KXIP, Sandeep Sharma , Bowler • India ,8500000,SOLD,5000000,13,7,17
+KKR, Gautam Gambhir , Batsman • India ,100000000,SOLD,20000000,16,498,0
+SRH, Mohammed Siraj , Bowler • India ,26000000,SOLD,2000000,6,999,10
+RPS, Shardul Thakur , Bowler • India ,2000000,SOLD,2000000,12,0,11
+KXIP, Mohit Sharma , Bowler • India ,10000000,SOLD,5000000,14,51,13
+MI, Ambati Rayudu , WK-Batsman • India ,20000000,SOLD,5000000,5,91,0
+DD, Murugan Ashwin , Bowler • India ,10000000,SOLD,1000000,999,999,999
+SRH, Ben Cutting , Bowling Allrounder • Australia ,10000000,SOLD,5000000,4,14,1
+KKR, Trent Boult , Bowler • New Zealand ,50000000,SOLD,15000000,6,999,5
+KKR, Nathan Coulter-Nile , Bowler • Australia ,35000000,SOLD,10000000,8,999,15
+KKR, Shakib Al Hasan , Batting Allrounder • Bangladesh ,20000000,SOLD,10000000,1,1,0
+MI, Harbhajan Singh , Bowler • India ,55000000,SOLD,20000000,11,16,8
+KXIP, Murali Vijay , Batsman • India ,30000000,SOLD,1000000,999,999,999
+MI, Mitchell Johnson , Bowler • Australia ,20000000,SOLD,20000000,5,20,7
+KKR, Yusuf Pathan , Batting Allrounder • India ,19000000,SOLD,8000000,15,143,1
+RPS, Rahul Chahar , Bowler • India ,1000000,SOLD,1000000,3,3,2
+MI, Parthiv Patel , WK-Batsman • India ,14000000,SOLD,10000000,16,395,0
+GL, Jason Roy , Batsman • England ,10000000,SOLD,10000000,3,59,0
+RPS, Daniel Christian , Bowling Allrounder • Australia ,10000000,SOLD,10000000,13,79,11
+GL, Pradeep Sangwan , Bowler • India ,2000000,SOLD,2000000,5,2,5
+SRH, Naman Ojha , WK-Batsman • India ,5000000,SOLD,5000000,14,79,0
+RCB, Mandeep Singh , Batsman • India ,8000000,SOLD,5000000,11,188,0
+NULL, Prithvi Shaw , Batsman • India ,0,UNSOLD,1000000,0,0,0
+KXIP, Manan Vohra , Batsman • India ,40000000,SOLD,3000000,11,229,0
+DD, Sam Billings , WK-Batsman • England ,3000000,SOLD,3000000,6,168,0
+MI, Tim Southee , Bowler • New Zealand ,25000000,SOLD,10000000,3,7,3
+NULL, Imran Tahir , Bowler • South Africa ,0,UNSOLD,5000000,0,0,0
+RPS, Mayank Agarwal , Batsman • India ,5000000,SOLD,2000000,3,26,0
+RPS, Manoj Tiwary , Batsman • India ,5000000,SOLD,5000000,15,324,0
+SRH, Mohammad Nabi , Bowling Allrounder • Afghanistan ,3000000,SOLD,3000000,3,2,2
+RCB, Pawan Negi , Bowling Allrounder • India ,10000000,SOLD,3000000,12,144,16
+MI, Vinay Kumar , Bowler • India ,4000000,SOLD,4000000,1,0,2
+SRH, Chris Jordan , Bowler • England ,5000000,SOLD,5000000,1,0,1
+GL, Akshdeep Nath , Batsman • India ,1000000,SOLD,1000000,1,0,0
+NULL, Shreevats Goswami , WK-Batsman • India ,0,UNSOLD,1000000,0,0,0
+GL, Basil Thampi , Bowling Allrounder • India ,8500000,SOLD,1000000,12,28,5
+MI, Kulwant Khejroliya , Bowler • India ,1000000,SOLD,1000000,999,999,999
+MI, Saurabh Tiwary , Batsman • India ,3000000,SOLD,3000000,1,52,0
+KXIP, Rinku Singh , Batsman • India ,1000000,SOLD,1000000,1,0,0
+RPS, Deepak Chahar , Bowler • India ,1000000,SOLD,1000000,3,14,1
+GL, Dhawal Kulkarni , Bowler • India ,10000000,SOLD,5000000,6,1,3
+NULL, Mitchell Santner , Bowling Allrounder • New Zealand ,0,UNSOLD,5000000,0,0,0
+SRH, Ben Laughlin , Bowler • Australia ,3000000,SOLD,3000000,999,999,999
+RCB, Billy Stanlake , Bowler • Australia ,3000000,SOLD,3000000,2,0,2
+NULL, Akila Dananjaya , Bowler • Sri Lanka ,0,UNSOLD,3000000,0,0,0
+KXIP, T Natarajan , Bowler • India ,30000000,SOLD,1000000,6,0,2
+RCB, Aniket Choudhary , Bowler • India ,20000000,SOLD,1000000,5,25,5
+KKR, Ishank Jaggi , Batsman • India ,1000000,SOLD,1000000,2,33,0
+DD, Aditya Tare , WK-Batsman • India ,2500000,SOLD,2000000,3,18,0
+KKR, Sayan Ghosh , Bowler • India ,1000000,SOLD,1000000,999,999,999
+KXIP, Martin Guptill , Batsman • New Zealand ,5000000,SOLD,5000000,7,132,0
+NULL, Himanshu Rana , Batsman • India ,0,UNSOLD,1000000,0,0,0
+NULL, Shivam Dubey , Batsman • India ,0,UNSOLD,1000000,0,0,0
+GL, Tejas Baroka , India ,1000000,SOLD,1000000,999,999,999
+KXIP, Eoin Morgan , Batsman • England ,20000000,SOLD,20000000,4,65,0
+DD, Corey Anderson , Batting Allrounder • New Zealand ,10000000,SOLD,10000000,11,142,3
+KKR, Rishi Dhawan , Bowling Allrounder • India ,5500000,SOLD,3000000,999,999,999
+NULL, Fawad Ahmed , Bowler • Australia ,0,UNSOLD,3000000,0,0,0
+NULL, Pragyan Ojha , Bowler • India ,0,UNSOLD,3000000,0,0,0
+RCB, Praveen Dubey , Bowler • India ,1000000,SOLD,1000000,999,999,999
+GL, Nathu Singh , Bowler • India ,5000000,SOLD,3000000,2,0,1
+MI, Nicholas Pooran , WK-Batsman • Windies ,3000000,SOLD,3000000,999,999,999
+KKR, Rovman Powell , Batsman • Windies ,3000000,SOLD,3000000,999,999,999
+RCB, Tymal Mills , Bowler • England ,120000000,SOLD,5000000,5,999,5
+DD, Shashank Singh , Batsman • India ,1000000,SOLD,1000000,999,999,999
+SRH, Eklavya Dwivedi , WK-Batsman • India ,7500000,SOLD,3000000,999,999,999
+KXIP, Matt Henry , Bowler • New Zealand ,5000000,SOLD,5000000,2,0,1
+NULL, Andile Phehlukwayo , Bowling Allrounder • South Africa ,0,UNSOLD,10000000,0,0,0
+NULL, Kesrick Williams , Batting Allrounder • Windies ,0,UNSOLD,3000000,0,0,0
+NULL, Akash Bhandari , Bowler • India ,0,UNSOLD,1000000,0,0,0
+NULL, David Wiese , Batting Allrounder • South Africa ,0,UNSOLD,3000000,0,0,0
+NULL, Kyle Abbott , Bowler • South Africa ,0,UNSOLD,15000000,0,0,0
